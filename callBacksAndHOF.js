@@ -40,7 +40,7 @@ const goals = [
 //And loop over each cell with .forEach method
 goals.forEach( function(goal){
     console.log(`${goal} is my current goal`);
-    //Prints
+    //Prints 
     //Workout is my current goal
     //Connect on LinkedIn is my current goal
     //Practice Javascript is my current goal
